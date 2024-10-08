@@ -1,0 +1,26 @@
+/*
+body{
+    background-color: green;
+}
+p{
+    background-color: #ff0000; 
+}
+div{
+    background-color:hsl(60,);
+}*/
+
+.caja1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 0);
+}
+.caja2{
+    width: 150px;
+    height: 150px;
+    background-color: #fffb00;
+}
+.caja3{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(132, 50%, 47%);
+}
